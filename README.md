@@ -1,1 +1,1 @@
-# random_and_add
+# Creating random numbers and generating their total values
